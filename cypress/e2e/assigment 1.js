@@ -41,14 +41,6 @@ cy.get('#dynamictable>tr>td:nth-child(3)').each((el,index,$list)=>{
 
 })
 //}
-    
-           
-           
-                
-            
-    
-
-
 
     })
 })
